@@ -1,0 +1,27 @@
+spawn:
+
+settings:
+  punch:
+    x: 0.9
+    y: 0.42
+  combat_log: 15 # seconds
+  fix_price: 1000
+  blocks:
+    cobweb: 15 # seconds
+    obsidian: 20 # seconds
+  money_first_join: 100
+  trash_gui:
+    size: 54
+    title: "Trash"
+  scavenger: 30 # seconds
+  enderpearl_cooldown: 15
+
+tablist:
+  header:
+    - " "
+    - " &b&lKITPVP"
+    - " "
+  footer:
+    - " "
+    - "  &f&oThank you for download!  "
+    - " "
